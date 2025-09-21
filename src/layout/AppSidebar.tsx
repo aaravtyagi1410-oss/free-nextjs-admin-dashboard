@@ -34,7 +34,7 @@ const navItems: NavItem[] = [
   },
   {
     icon: <CalenderIcon />,
-    name: "Calendar",
+    name: "Smartest Pricing Recommendations",
     path: "/calendar",
   },
   {
